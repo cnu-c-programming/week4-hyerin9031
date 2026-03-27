@@ -2,7 +2,7 @@
 
 void inc(int* x){
 
-    if(*x == NULL){
+    if(x == NULL){
         return;
     }
     *x = *x + 1;
