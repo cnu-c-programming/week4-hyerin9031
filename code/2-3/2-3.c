@@ -12,6 +12,7 @@ int main() {
     strcpy(c, a);
     printf("a: %s, c: %s\n", a, c);
 
+    strcat(c, " ");
     strcat(c, b);
     printf("c: %s\n", c);
 
