@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "CP03_week4_util.h"
+#include "util.h"
 
 int main() {
     for(int i=0; i<100; i++){
