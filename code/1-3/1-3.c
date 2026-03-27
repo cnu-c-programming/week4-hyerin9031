@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "CP03_week4_1-3-util.h"
+#include "util.h"
 
 extern void task2();
 extern void logger_global(char* message);
